@@ -1,0 +1,1 @@
+$(document).ready(function(){function e(){var e=$(".col1");TweenMax.from(e,5,{alpha:0,ease:Power2.easeIn})}e()});
